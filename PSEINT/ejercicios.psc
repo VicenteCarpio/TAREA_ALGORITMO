@@ -131,18 +131,18 @@ Funcion ejercicios <- ejercicio8 (num)
 		10: Escribir "Boda de Hojalata"
 		20: Escribir "Boda de Porcelana"
 		30: Escribir "Bodas de Perlas"
-		40: Escribir "Bodas de Rubí"
+		40: Escribir "Bodas de RubÃ­"
 		50: Escribir "Bodas de Oro"
 		60: Escribir 'Bodas de Diamante'
 		De Otro Modo:
-			Escribir 'NO EXISTE ANIVERSARIO EN ESE AÑO'
+			Escribir 'NO EXISTE ANIVERSARIO EN ESE AÃ‘O'
 	FinSegun
 FinFuncion
 
 Funcion ejercicios <- ejercicio9 (num)
-	Escribir "Opción 1: Elevar un número a una potencia X";
-	Escribir "Opción 2: Sacar la raíz cuadrada de un número";
-	Escribir "Opción 3: Salir";
+	Escribir "OpciÃ³n 1: Elevar un nÃºmero a una potencia X";
+	Escribir "OpciÃ³n 2: Sacar la raÃ­z cuadrada de un nÃºmero";
+	Escribir "OpciÃ³n 3: Salir";
 	Leer num;	
 	Segun num hacer
 		1: Escribir "ingrese numero";
@@ -499,7 +499,7 @@ FinFuncion
 	// escribir ejercicio22(n)
 	// escribir ejercicio23(numtrabajadores, tarifapago, horas)
 	// escribir ejercicio24(numero_trabajadores, tarifa)
-    // escribir ejercicio25(a)
+        // escribir ejercicio25(a)
 	// escribir ejercicio26(a)
 	// escribir ejercicio27(Horas, Minutos, Segundoos)
 	// escribir ejercicio29(man, woman)
